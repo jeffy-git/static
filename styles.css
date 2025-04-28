@@ -2,19 +2,29 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 100px;
-    background-color: #f0f0f0;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    font-size: 16px;
 }
 
 button {
     padding: 10px 20px;
-    font-size: 18px;
+    font-size: 16px;
     cursor: pointer;
-    background-color: #4CAF50;
+    background-color: #2196F3;
     color: white;
     border: none;
     border-radius: 5px;
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #0b7dda;
+}
+
+h2 {
+    margin-top: 20px;
 }
